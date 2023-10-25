@@ -5,7 +5,8 @@
 3. Todo List (Vuex + axios): [congthanhle/vuex-axios](https://github.com/congthanhle/vuex_axios)<br/><br/>
 5. Advanced ES6: [congthanhle/es6_advanced](https://github.com/congthanhle/es6_advanced)<br/><br/>
 6. Product Introduce Web (Nuxt): [congthanhle/ProductIntro](https://github.com/congthanhle/ProductIntro)<br/><br/>
-&nbsp;&nbsp;Demo: [product-intro.vercel.app](https://product-intro.vercel.app/)<br/>
+&nbsp;&nbsp;Demo: [product-intro.vercel.app](https://product-intro.vercel.app/)<br/><br/>
+7. Dashboard Web (Nuxt): [congthanhle/dashboard](https://github.com/congthanhle/dashboard)<br/><br/>
 
 
 
